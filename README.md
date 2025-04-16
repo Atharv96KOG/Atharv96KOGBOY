@@ -4,7 +4,7 @@
 <h1 align="center">✨Atharv Muchandi✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=GAME-DEVELOPER,WEB-DEVELOPER&center=true&color=BE00F7&width=400&height=45&font=Fira+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=GAME-DEVELOPER,AR & VR-DEVELOPER,WEB-DEVELOPER & MACHINE LEARNER &center=true&color=BE00F7&width=400&height=45&font=Fira+Code" />
 </p>
 
 <p align="center">
@@ -21,10 +21,10 @@
 
 ---
 
-### 📊 GitHub Activity Graph
+### 📊 GitHub Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Atharv96KOG&theme=react-dark" />
+  <img src="https://github.com/Atharv96KOG/Atharv96KOG/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
