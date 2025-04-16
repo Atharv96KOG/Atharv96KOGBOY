@@ -1,7 +1,7 @@
 # Atharv96KOGBOY
 <!-- Profile README for https://github.com/Atharv96KOG -->
 
-<h1 align="center">✨ In The Name Of ALLAH ✨</h1>
+<h1 align="center">✨Atharv Muchandi✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Open-Source+Ent&center=true&color=BE00F7&width=400&height=45&font=Fira+Code" />
